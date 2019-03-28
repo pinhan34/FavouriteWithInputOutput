@@ -6,5 +6,15 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'FavouriteWithInputOutput';
+  
+  tweet = {
+    body : "Here is the body of your tweet",
+    isLiked : true,
+    likesCount :10
+  }
+
+  onTweetLikeChanged(isLikedorNot : boolean){
+    console.log("likedornot: " , isLikedorNot);
+  }
+
 }

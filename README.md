@@ -1,4 +1,5 @@
 # FavouriteWithInputOutput
+<<<<<<< HEAD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
 
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+An angular project implementing the favourite icon an some other utulities
+>>>>>>> 0595495fb88238322615b6fdf2766a6dc3899884
